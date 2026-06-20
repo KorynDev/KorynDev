@@ -4,7 +4,7 @@
 
 I am a solo developer, I code in C++.
 I have decent experience, I have been coding for about 1.2 years now.
-I have OpenGL experience. And i am currently working on a game called Moss.
+I have OpenGL experience. And i am currently learning roblox luau.
 
 I am autistic, but i listen, and im kind.
 
