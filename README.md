@@ -18,9 +18,7 @@ I am autistic, but i listen, and im kind.
   <img src="https://img.shields.io/badge/C++-darkred?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=blue">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow">
-  <img src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=red">
   <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=purple">
-  <img src="https://img.shields.io/badge/PHP-0d0d0d?style=for-the-badge&logo=php&logoColor=violet">
 </p>
 
 ---
